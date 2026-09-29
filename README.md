@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<h1 align="center">Hi there! Magno here! 👋</h1>
+<h1 align="center">Hi there! I'm Clóvis Magno 👋</h1>
 
 <p align="center">
   <a href="#english">English</a> ·
@@ -13,13 +13,13 @@
   <a href="mailto:cmagno.contact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-<a id="english"></a>
+<a name="english"></a>
 
 ## About me
 
 <img align="right" height="270px" alt="Coding animation" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-I'm Magno, a Computer Engineering student at Universidad Pablo de Olavide and a teacher of programming, robotics, and technology.
+I'm Clóvis Magno, a Computer Engineering student at Universidad Pablo de Olavide and a teacher of programming, robotics, and technology.
 
 I see programming as a vehicle for logical reasoning and structured thinking, not as an exercise in memorizing syntax. I enjoy turning complex ideas into practical projects and learning experiences that make technology easier to understand.
 
@@ -34,20 +34,22 @@ Fun fact: I love dancing and swimming! 🕺🏾 🏊🏾
 
 ### Languages and tools
 
-- **Python**: NumPy, Pandas, Matplotlib, Pygame
-- **C/C++**
-- **Trofia stack**: JavaScript, React, Vite, Capacitor, Firebase, Cloudflare Workers, Gemini API
+- **Languages**: Python, JavaScript, Java, C/C++, HTML/CSS, ARM Assembly
+- **Python ecosystem**: NumPy, Pandas, Matplotlib, Pygame, TensorFlow, PyTorch, Seaborn, Plotly
+- **Web and mobile**: React, Vite, Capacitor, Firebase, Cloudflare Workers, Gemini API
+- **Tools**: Git, GitHub, VS Code, PyCharm, Spyder, Arduino IDE, Google Colab, Selenium, Playwright, CI/CD
+- **Hardware and physical computing**: Arduino
 
 <br clear="right" />
+
+<a name="portugues"></a>
 
 <details>
 <summary><strong>Português (Brasil)</strong></summary>
 
-<a id="portugues"></a>
-
 ## Sobre mim
 
-Sou o Magno, estudante de Engenharia da Computação na Universidad Pablo de Olavide e professor de programação, robótica e tecnologia.
+Sou Clóvis Magno, estudante de Engenharia da Computação na Universidad Pablo de Olavide e professor de programação, robótica e tecnologia.
 
 Vejo a programação como um veículo para desenvolver o raciocínio lógico e o pensamento estruturado, não como um exercício de decorar sintaxe. Gosto de transformar ideias complexas em projetos práticos e experiências de aprendizagem que tornam a tecnologia mais fácil de entender.
 
@@ -62,20 +64,22 @@ Curiosidade: adoro dançar e nadar! 🕺🏾 🏊🏾
 
 ### Linguagens e ferramentas
 
-- **Python**: NumPy, Pandas, Matplotlib, Pygame
-- **C/C++**
-- **Stack do Trofia**: JavaScript, React, Vite, Capacitor, Firebase, Cloudflare Workers, API Gemini
+- **Linguagens**: Python, JavaScript, Java, C/C++, HTML/CSS, Assembly ARM
+- **Ecossistema Python**: NumPy, Pandas, Matplotlib, Pygame, TensorFlow, PyTorch, Seaborn, Plotly
+- **Web e mobile**: React, Vite, Capacitor, Firebase, Cloudflare Workers, API Gemini
+- **Ferramentas**: Git, GitHub, VS Code, PyCharm, Spyder, Arduino IDE, Google Colab, Selenium, Playwright, CI/CD
+- **Hardware e computação física**: Arduino
 
 </details>
+
+<a name="espanol"></a>
 
 <details>
 <summary><strong>Español</strong></summary>
 
-<a id="espanol"></a>
-
 ## Sobre mí
 
-Soy Magno, estudiante de Ingeniería Informática en la Universidad Pablo de Olavide y profesor de programación, robótica y tecnología.
+Soy Clóvis Magno, estudiante de Ingeniería Informática en la Universidad Pablo de Olavide y profesor de programación, robótica y tecnología.
 
 Entiendo la programación como un vehículo para desarrollar el razonamiento lógico y el pensamiento estructurado, no como un ejercicio de memorizar sintaxis. Me gusta convertir ideas complejas en proyectos prácticos y experiencias de aprendizaje que hacen que la tecnología sea más fácil de comprender.
 
@@ -90,9 +94,11 @@ Un dato curioso: ¡me encanta bailar y nadar! 🕺🏾 🏊🏾
 
 ### Lenguajes y herramientas
 
-- **Python**: NumPy, Pandas, Matplotlib, Pygame
-- **C/C++**
-- **Stack de Trofia**: JavaScript, React, Vite, Capacitor, Firebase, Cloudflare Workers, API de Gemini
+- **Lenguajes**: Python, JavaScript, Java, C/C++, HTML/CSS, ensamblador ARM
+- **Ecosistema Python**: NumPy, Pandas, Matplotlib, Pygame, TensorFlow, PyTorch, Seaborn, Plotly
+- **Web y móvil**: React, Vite, Capacitor, Firebase, Cloudflare Workers, API de Gemini
+- **Herramientas**: Git, GitHub, VS Code, PyCharm, Spyder, Arduino IDE, Google Colab, Selenium, Playwright, CI/CD
+- **Hardware y computación física**: Arduino
 
 </details>
 
